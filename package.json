@@ -1,0 +1,28 @@
+{
+  "name": "@htmlacademy/cra-template-typescript",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "htmlacademy",
+    "typescript"
+  ],
+  "description": "The base template for projects of htmlacademy",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htmlacademy/cra-template-typescript-htmlacademy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/htmlacademy/cra-template-typescript-htmlacademy/issues"
+  },
+  "homepage": "https://github.com/htmlacademy/cra-template-typescript-htmlacademy#readme"
+}
