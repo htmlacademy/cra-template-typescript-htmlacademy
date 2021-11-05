@@ -1,5 +1,5 @@
 {
-  "name": "@drmonro/cra-template-typescript",
+  "name": "@drmonro/cra-template-react-ts",
   "version": "1.0.3",
   "keywords": [
     "react",
@@ -8,7 +8,7 @@
     "htmlacademy",
     "typescript"
   ],
-  "description": "The base template for projects of htmlacademy",
+  "description": "The base template for projects on React with TS",
   "license": "MIT",
   "engines": {
     "node": ">=12"
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drmonro/cra-template-typescript.git"
+    "url": "git+https://github.com/drmonro/cra-template-react-ts.git"
   },
   "bugs": {
-    "url": "https://github.com/drmonro/cra-template-typescript/issues"
+    "url": "https://github.com/drmonro/cra-template-react-ts/issues"
   },
-  "homepage": "https://github.com/drmonro/cra-template-typescript#readme"
+  "homepage": "https://github.com/drmonro/cra-template-react-ts#readme"
 }
