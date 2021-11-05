@@ -1,9 +1,9 @@
-# @htmlacademy/cra-template-typescript
+# @drmonro/cra-template-typescript
 
-Шаблон [Create React App](https://github.com/facebook/create-react-app) для курса «[React. Разработка сложных клиентских приложений](https://htmlacademy.ru/intensive/react)» от HTML Academy.
+Шаблон [Create React App](https://github.com/facebook/create-react-app)
 
-Для создания нового проекта на основе шаблона используйте параметр `--template` со значением `@htmlacademy/cra-template-typescript`:
+Для создания нового проекта на основе шаблона используйте параметр `--template` со значением `@drmonro/cra-template-typescript`:
 
 ```sh
-npx create-react-app project --template @htmlacademy/cra-template-typescript
+npx create-react-app project --template @drmonro/cra-template-typescript
 ```
