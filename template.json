@@ -8,7 +8,7 @@
       "eslint": "eslint --ext .tsx --ext .ts src/"
     },
     "eslintConfig": {
-      "extends": ["react-app", "react-app/jest", "htmlacademy/react-typescript"]
+      "extends": ["react-app", "react-app/jest", "drmonro/react-typescript"]
     },
     "dependencies": {
       "@reduxjs/toolkit": "1.5.0",
@@ -32,7 +32,7 @@
       "@types/react-redux": "^7.1.18",
       "@types/react-router-dom": "^5.1.9",
       "axios-mock-adapter": "1.19.0",
-      "eslint-config-htmlacademy": "^4.1.0",
+      "eslint-config-drmonro": "^4.1.0",
       "faker": "5.5.3",
       "redux-devtools-extension": "2.13",
       "typescript": "^4.1.2"
