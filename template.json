@@ -5,7 +5,7 @@
   "package": {
     "scripts": {
       "test": "react-scripts test --passWithNoTests",
-      "eslint": "eslint --ext .tsx --ext .ts src/"
+      "lint": "eslint --ext .tsx --ext .ts src/"
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest", "htmlacademy/react-typescript"]
