@@ -11,7 +11,7 @@
   "description": "The base template for projects of htmlacademy",
   "license": "MIT",
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "files": [
     "template",
