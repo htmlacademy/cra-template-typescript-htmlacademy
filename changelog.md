@@ -1,3 +1,13 @@
+3.0.0 / 2022-06-20
+==================
+
+  * Updated the React to version 18
+  * Updated the config of ESLint to 6.0.0
+  * Updated packages of `@testing-library`
+  * Removed dublicate of the `engines` option
+  * Removed package `@testing-library/react-hooks`
+  * Added folder `pages`
+
 2.0.1 / 2022-03-16
 ==================
 
