@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": ">=14"
-  },
   "package": {
     "scripts": {
       "test": "react-scripts test --passWithNoTests",
