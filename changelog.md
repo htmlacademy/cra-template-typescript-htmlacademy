@@ -1,3 +1,25 @@
+5.0.0 / 2022-10-12
+==================
+
+1) Updated the packages that are used for the projects.
+
+DevDependencies:
+
+  * Updated version of `@types/jest` to 29.1.2
+  * Updated version of `@types/react` to 18.0.21
+  * Updated version of `eslint-config-htmlacademy` to 8.0.0
+  * Updated version of `typescript` to 4.8.4
+
+  * Replace package `redux-devtools-extension` with package `@redux-devtools/extension`
+
+Dependencies:
+
+  * Updated version of `@reduxjs/toolkit` to 1.8.6
+  * Updated version of `react-redux` to 8.0.4
+  * Updated version of `react-router-dom` to 6.4.2
+
+  * Remove package `reselect`
+
 4.0.0 / 2022-09-26
 ==================
 
@@ -25,7 +47,7 @@ Dependencies:
   * Updated version of `react-toastify` to 9.0.8
   * Updated version of `reselect` to 4.1.6
 
-1) Updated ESLint configuration options. Сhanges are required after the rules changed in `eslint-config-htmlacademy` (changelog of 7.0.0 version).
+2) Updated ESLint configuration options. Сhanges are required after the rules changed in `eslint-config-htmlacademy` (changelog of 7.0.0 version).
 
 3.0.0 / 2022-06-20
 ==================
