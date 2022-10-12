@@ -10,7 +10,7 @@ DevDependencies:
   * Updated version of `eslint-config-htmlacademy` to 8.0.0
   * Updated version of `typescript` to 4.8.4
 
-  * Replace package `redux-devtools-extension` with package `@redux-devtools/extension`
+  * Replaced package `redux-devtools-extension` with package `@redux-devtools/extension`
 
 Dependencies:
 
@@ -18,7 +18,7 @@ Dependencies:
   * Updated version of `react-redux` to 8.0.4
   * Updated version of `react-router-dom` to 6.4.2
 
-  * Remove package `reselect`
+  * Removed package `reselect`
 
 4.0.0 / 2022-09-26
 ==================
